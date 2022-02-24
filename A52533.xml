@@ -1,0 +1,235 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at the publick commencement at Cambridge Sunday in the forenoon, July iii, 1698 / by Peter Nourse ...</title>
+            <author>Nourse, Peter, 1663-1723.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52533</idno>
+            <idno type="STC">Wing N1415</idno>
+            <idno type="STC">ESTC R181111</idno>
+            <idno type="EEBO-CITATION">11779373</idno>
+            <idno type="OCLC">ocm 11779373</idno>
+            <idno type="VID">48971</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52533)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48971)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 544:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at the publick commencement at Cambridge Sunday in the forenoon, July iii, 1698 / by Peter Nourse ...</title>
+                  <author>Nourse, Peter, 1663-1723.</author>
+               </titleStmt>
+               <extent>[2], 29 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Hall ... and are to be sold by Luke Meredith ...,</publisher>
+                  <pubPlace>Cambridge (England) :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesus Christ --  History of doctrines --  17th century.</term>
+               <term>Bible. --  N.T. --  Corinthians, 2nd, IV, 3 --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48971:1"/>
+            <pb facs="tcp:48971:1" rendition="simple:additions"/>
+            <p>A SERMON PREACHED at the Publick Commencement AT <hi>CAMBRIDGE.</hi> SUNDAY in the Forenoon <hi>July</hi> iij. 1698.</p>
+            <p>By <hi>PETER NOURSE,</hi> D. D. Fellow of S. <hi>John</hi>'s College.</p>
+            <p>
+               <hi>CAMBRIDGE,</hi> Printed for <hi>Edward Hall,</hi> Bookſeller in <hi>Cam<g ref="char:EOLhyphen"/>bridge,</hi> and are to be Sold by <hi>Luke Meredith,</hi> at the <hi>Star</hi> in St. <hi>Paul</hi>'s Church-yard, <hi>London,</hi> 1698.</p>
+            <pb facs="tcp:48971:2" rendition="simple:additions"/>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:48971:2"/>
+            <head>
+               <q>
+                  <bibl>II COR. CHAP. IV. V. iij.</bibl> But if our Goſpel be hid, it is hid to them that are loſt.</q>
+            </head>
+            <p>THE Goſpel in the largeſt ſignifi<g ref="char:EOLhyphen"/>cation of the word comprehends the Writings both of the Old and New Teſtament, which are the perfect and compleat Will of God, reveal'd to Mankind, in order to their future Happi<g ref="char:EOLhyphen"/>neſs: But there is a more limited Senſe of the word Goſpel, in which it is oppoſed to the Law and the Prophets, it began from <hi>Galilee</hi> after the Baptiſm which <hi>John</hi> preached, <hi>Acts</hi> 10. v. 37. and in this ſtricter Senſe it is to be underſtood in the Text, the Apoſtle calling it <hi>our Goſpel,</hi>
+               <pb n="2" facs="tcp:48971:3"/>
+meaning his own Sermons and Writings, and together with them the whole Doctrine of our Saviour and his Apoſtles.</p>
+            <p>It is neceſſary for our preſent purpoſe thus to diſtinguiſh, for how near ſoever the Agreement is between the Old and New Teſtament in ſubſtance and deſign, yet in this they differ exceedingly, that the Truths contain'd in the Law were veil'd under Types and Figures, dark and myſte<g ref="char:EOLhyphen"/>rious Repreſentations, ſo that it was diffi<g ref="char:EOLhyphen"/>cult for the wiſeſt <hi>Jew</hi> to ſee to the end of that Faith, by which alone he could be ſaved, namely the Sufferings and Death of the Meſſiah; and Moral Duties were ſo mingled even in their Prophets with Legal Obſervances, that the beſt and ſincereſt men of that Religion could not eaſily diſcern the different obligations that were due to the one and to the other, ſo that a <hi>Jew</hi> might have a great deal to ſay for himſelf in Ex<g ref="char:EOLhyphen"/>cuſe of his Ignorance and Unbelief. But this Goſpel which St. <hi>Paul</hi> ſpeaks of is ſo
+<pb n="3" facs="tcp:48971:3"/>
+clear and open, it ſhines with that ſtrength and brightneſs, that no Profeſſor of it can be Ignorant of its Truths, or withſtand its Power, without doing the greateſt Vio<g ref="char:EOLhyphen"/>lence to his own Conſcience and Under<g ref="char:EOLhyphen"/>ſtanding; if it be hid to any that have had the Means of being inſtructed in it. <hi>it is hid to ſuch as are loſt,</hi> and that not only to Vertue and Religion, but even to com<g ref="char:EOLhyphen"/>mon Senſe and Reaſon.</p>
+            <p>It would take up too much of this Diſ<g ref="char:EOLhyphen"/>courſe to ſhew the great Happineſs and Advantages we Chriſtians enjoy, by com<g ref="char:EOLhyphen"/>paring the Grace and Truth which came by JESUS CHRIST, with the Law that was given by <hi>Moſes,</hi> in that particular of the Plainneſs and Perſpicuity of the one above the other, and it would be needleſs to ſpeak any thing upon this Head, ſince our greateſt Adverſaries confeſs it as well as our Selves, and there is no one thing in which the different Parties in Religion (except thoſe of the Church of <hi>Rome)</hi> do ſo much
+<pb n="4" facs="tcp:48971:4"/>
+agree as in this, that the Goſpel of CHRIST in all things that are neceſſary to Salvation is very plain and eaſy to be underſtood: Taking it therefore for granted that it is ſo, I ſhall only inquire into theſe two things.</p>
+            <p>
+               <hi>Firſt,</hi> How or in what Reſpect the Goſ<g ref="char:EOLhyphen"/>pel may be hid.</p>
+            <p>
+               <hi>Secondly,</hi> How juſt their Condemnation is to whom it is hid, the Text tells us, they are loſt.</p>
+            <p>
+               <hi>Firſt,</hi> The Goſpel may be hid either in Reſpect of that Faith which it deli<g ref="char:EOLhyphen"/>vers, or <hi>Secondly,</hi> in Reſpect of its Power.</p>
+            <p>The Faith deliver'd in the Goſpel takes in all thoſe Truths that are reveal'd in it, but particularly thoſe which we receive on<g ref="char:EOLhyphen"/>ly from Revelation, which the Light of Na<g ref="char:EOLhyphen"/>ture could neither have let us into, nor can
+<pb n="5" facs="tcp:48971:4"/>
+it yet comprehend them, ſo that Faith is an Evidence of things not underſtood as well as of things not ſeen. Whoſoever therefore are either Ignorant of, or will not believe what the Goſpel diſcovers to us, to thoſe it is certainly hid, not that all kinds of ignorance do neceſſarily bring men un<g ref="char:EOLhyphen"/>der the Apoſtles cenſure in the Text, but ſuch only as is voluntary, and in other caſes criminal. It would be the worſt ſort of judging thoſe that are without, if we ſhould pronounce all thoſe men abſolutely loſt who have not yet receiv'd the Goſpel, there have been and without doubt ſtill are ſome men of Piety and Virtue even amongſt the Heathen, whoſe Hearts are well diſpoſed for the receiving it, if it ſhould pleaſe God to impart it to them; theſe are not ſuch as <hi>the God of this World has blind<g ref="char:EOLhyphen"/>ed,</hi> but the Providence of the eternal God, who has determin'd the bounds of Man's habitation, has placed them at ſo great a diſtance from this Light, that it is moral<g ref="char:EOLhyphen"/>ly impoſſible it ſhould ſhine unto them.
+<pb n="6" facs="tcp:48971:5"/>
+Neither can we pronounce all thoſe to be loſt to whom ſome of the Goſpel Truths are hid; for though we believe every word of it to have proceeded out of the Mouth of God, yet all its Truths are not of equal moment for our Salvation, and conſider<g ref="char:EOLhyphen"/>ing the Nature of Mankind, it is impoſſi<g ref="char:EOLhyphen"/>ble but Errors and Diviſions will ſpring up amongſt them, and in many caſes great allowances muſt be made for the prejudi<g ref="char:EOLhyphen"/>ces, or for the want of Education, and even for the incapacities of ſome men to judge in the plaineſt matters, God Almigh<g ref="char:EOLhyphen"/>ty conſiders all this, and will not be ſo ſe<g ref="char:EOLhyphen"/>vere upon us, as we are upon one another, our heats and animoſities generally riſe higheſt where the grounds of difference are the moſt inconſiderable, but God looks upon things in another manner, and is as ready to paſs by ſome Errors in our Faith, as he is to pardon ſins of infirmity in our practice, for they both ariſe from the ſame cauſes, the ſtrength of our paſſions and in<g ref="char:EOLhyphen"/>advertency.</p>
+            <p>
+               <pb n="7" facs="tcp:48971:5"/>
+But thoſe who are left without all ex<g ref="char:EOLhyphen"/>cuſe, are ſuch as wholly reject the Goſpel, when they have had ſufficient means of being inſtructed in it, or pervert the end of our Faith, as the <hi>Gnoſlicks</hi> did, who turned the Grace of God into Laſciviouſ<g ref="char:EOLhyphen"/>neſs, making the Goſpel which was deſign'd to purify us from ſin, to juſtify and pa<g ref="char:EOLhyphen"/>tronize it, or elſe they are ſuch as endea<g ref="char:EOLhyphen"/>vour to ruin the Foundations of our Faith, which is done more effectually by ſecretly undermining it with falſe Interpretations, than if they ſhould with bare face diſown it. And of all thoſe Truths that are Fun<g ref="char:EOLhyphen"/>damental in our Religion, nothing is more plainly and peculiarly ſo than that JESUS CHRIST is the Son of the living God. This is that Rock upon which (and not upon him who Confeſſed it) our Lord de<g ref="char:EOLhyphen"/>clared that he would Build his Church, and the Gates of Hell ſhould never prevail a<g ref="char:EOLhyphen"/>gainſt it; it is too bold an attempt even for Hell it ſelf openly to Aſſault this Truth, becauſe it ſtands ſo clearly reveal'd in ma<g ref="char:EOLhyphen"/>ny
+<pb n="8" facs="tcp:48971:6"/>
+places of Scripture, but never were the powers of darkneſs more induſtrious in any thing, than to ſubvert it by falſe expoſi<g ref="char:EOLhyphen"/>tions, which was once done with that ſuc<g ref="char:EOLhyphen"/>ceſs, that one of the Fathers tells us, <hi>The World groan'd, and was ſurpriz'd to ſee it ſelf turn'd</hi> Arrian. In every Age of the Church ſomething of this <hi>Hereſy</hi> has been kept on foot, maintain'd and improv'd with all the force and ſubtelty of Wit and Learning, but the Truth which it oppo<g ref="char:EOLhyphen"/>ſeth is of ſo great moment, that the main ſtreſs of the Goſpel lies upon it, for what does that word import, but the glad tidings of Salvation purchaſed for us by CHRIST JESUS? who had he not been the True and Eternal Son of the Living God, could not have made a full Attonement or Satiſ<g ref="char:EOLhyphen"/>faction for our ſins, neither could we juſti<g ref="char:EOLhyphen"/>fy our ſelves in paying him that worſhip and adoration which the Scriptures do de<g ref="char:EOLhyphen"/>clare, and the Church of God hath ever taught to be due to him.</p>
+            <p>
+               <pb n="9" facs="tcp:48971:6"/>
+It is a very great Argument to confirm us that we are in the Right, and we may juſtly glory in it, though it be but of little force to convince our Adverſaries, namely, that our belief of theſe Fundamental Truths, is not only grounded upon clear and ex<g ref="char:EOLhyphen"/>preſs words of Scripture frequently repeat<g ref="char:EOLhyphen"/>ed, but it hath alſo been the Doctrine of the Church in all Ages and Places, ſo that if this Goſpel be hid to us in our ſenſe and interpretation of it, it hath been hid like<g ref="char:EOLhyphen"/>wiſe to all the Primitive Saints and Mar<g ref="char:EOLhyphen"/>tyrs, but it would be the greateſt impiety to ſuppoſe this: if we draw as we muſt do the Apoſtles inference, then they which are fallen aſleep in JESUS, they who have lay'd down their lives for him are all periſh'd. But notwithſtanding the blindneſs or rather the willfulneſs and craft of our Adverſaries, the True and Heavenly Wiſdom ever has been and ever will be juſtify'd by her Children.</p>
+            <p>But <hi>Secondly,</hi> The Goſpel may be ſaid to be hid in reſpect of its Power. By the Power of the Goſpel I mean its Efficacy to
+<pb n="10" facs="tcp:48971:7"/>
+work in us that Holineſs, which is neceſſa<g ref="char:EOLhyphen"/>ry to fit us for the benefit of its Promiſes. Thus the Goſpel is call'd by St. <hi>Paul,</hi> the <hi>Power of God unto Salvation,</hi> Epiſt. to the <hi>Rom.</hi> chap. 1. v. 16. This being the end and deſign of it, to purge our Conſcien<g ref="char:EOLhyphen"/>ces from dead works, that we might ſerve the Living God. The power of doing this conſiſts in the means by which it is effected; ſuch are the Operations of the Holy Spirit upon our Souls, the Grace of Repentance, the Efficacy of the Sacraments, a ſtedfaſt Faith in God, from which there flows a dread of his Threatnings, and a lively hope of his Promiſes; he who contemns and re<g ref="char:EOLhyphen"/>jects theſe means and cauſes of a Holy Life, and becomes barren and unfruitful in his Duty, be he never ſo well skill'd in the Mind and Interpretation of God's Word, yet the Scripture pronounceth that <hi>he is blind, and that he knoweth nothing as he ought to know:</hi> For the Kingdom of God (which ſignifies the Goſpel) the Apoſtle tells us, <hi>doth not conſiſt in Word, but in</hi>
+               <pb n="11" facs="tcp:48971:7"/>
+               <hi>Power,</hi> 1 Epiſt. to the <hi>Cor.</hi> chap. 4. v. 20. There is that Force, that Conviction of Truth in it, that it is impoſſible it ſhould be really receiv'd where it is not obey'd; but it is not (as many imagine) by Know<g ref="char:EOLhyphen"/>ledge that we receive this Power of the Goſpel, but by Faith, for Knowledge of Divine as well as Natural Truths may ſerve only to puff men up with Pride and Va<g ref="char:EOLhyphen"/>nity: A natural Man may diſcern his Duty in the Scripture, and acknowledge it for Truth, but as one who ſeeth his Face in the Glaſs knows his likeneſs whilſt he looks upon it, but when he goes from thence he preſently forgets what manner of Perſon he is, ſo Knowledge will force aſſent to Truth whilſt our minds are upon it, but if we turn away our thoughts immediately we forget our Duty; but Faith is ſuch an Evi<g ref="char:EOLhyphen"/>dence of things not ſeen, that the impreſ<g ref="char:EOLhyphen"/>ſions from it are deep and laſting; 'tis too ſtrong a principle for the hopes of plea<g ref="char:EOLhyphen"/>ſures here, or the fear of dangers to over<g ref="char:EOLhyphen"/>come it; it makes Heaven and Hell as it
+<pb n="10" facs="tcp:48971:8"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="11" facs="tcp:48971:8"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="12" facs="tcp:48971:9"/>
+were preſent to our View, which is the beſt Guard againſt Temptations, and the ſtrongeſt motive to Obedience.</p>
+            <p>Experience ſhews us what great difference there is between Faith and Knowledge of the Scriptures, they often times ariſe from quite different ends and motives, Ambition or Avarice may ſet men to underſtand the Goſpel, but only a Conſcience that is or would be void of offence can encourage them to Believe it. The influence alſo of theſe two Principles are as different, for there are many men who underſtand their Duty ſo well, that they perfectly compre<g ref="char:EOLhyphen"/>hend its whole connexion, they are able to demonſtrate each part of it, by reducing it to ſome Principle in Natural Reaſon, but yet their lives are Vicious and Profane, whereas there are many others who neither can demonſtrate any thing at all of this, neither do they pretend to it, only they Believe that what God has ſaid is True, and what he has commanded is to be O<g ref="char:EOLhyphen"/>bey'd, and upon that Principle alone they
+<pb n="13" facs="tcp:48971:9"/>
+firmly adhere to their Duty; no Argu<g ref="char:EOLhyphen"/>ment of the ſubtileſt Diſputant can ſhake their Integrity, no temptation of the World can ſeduce them from it, but they will perſevere to do Juſtice, to love Mercy, and to walk humbly with their God.</p>
+            <p>But if a Covetous or an Ambitious Per<g ref="char:EOLhyphen"/>ſon, a Drunkard or a Whoremonger will hear or read the Goſpel, and is not ſo con<g ref="char:EOLhyphen"/>vinced of the hainouſneſs and danger of his ſin, as to be touch'd in Conſcience for it, and be reſolv'd to forſake it; the Goſpel may truly be ſaid to be hidden from him, but how is it hid? not in the Letter, but in the Power of it, for men may hear and not underſtand, they may underſtand and yet not believe, and the Author to the <hi>Hebrews</hi> tells us, chap. 4. v. 2. <hi>That the Word Preached did not proffit the Iſraelites, being not mix'd with Faith in them that heard it.</hi>
+            </p>
+            <p>As for thoſe to whom the Goſpel is thus hid in reſpect of its Power, their numbers are too great out of all parties in Religion,
+<pb n="14" facs="tcp:48971:10"/>
+the Subject is too melancholy to inſiſt up<g ref="char:EOLhyphen"/>on. Strange it is that men ſhould ſhew their heat and zeal only for thoſe Opinions and ſpeculative Notions wherein they differ from each other, many of which are of little moment to the great buſineſs of Re<g ref="char:EOLhyphen"/>ligion, and are ſo regardleſs of that, the neceſſity of which they are all agreed in, namely the practice of Virtue and Holi<g ref="char:EOLhyphen"/>neſs.</p>
+            <p>I know 'tis ſo common a Topick, and has ever been ſo for men to declaim againſt the Vices of the Age they live in, as if every ones own times were the worſt, that it is lookt upon as a thing of courſe and cuſtom, and ſeldom does any good to<g ref="char:EOLhyphen"/>wards a Reformation, yet I may ſafely af<g ref="char:EOLhyphen"/>firm that the Characters of the Vices of this preſent Age have ſomething peculiar in them to make us conclude that we live not only in the worſt, but in the laſt of times, which ſhould make men that have any diſpoſition towards goodneſs, or con<g ref="char:EOLhyphen"/>cern for their ſafety, to take heed leaſt
+<pb n="15" facs="tcp:48971:10"/>
+they periſh in the common ruin. The ground of our complaint is not only what has ever been in all Ages and Places, that Religion is neglected, its Holy Precepts violated, its Threats and Promiſes diſre<g ref="char:EOLhyphen"/>garded, but what is moſt of all infamous and deplorable, 'tis made the common ſub<g ref="char:EOLhyphen"/>ject of Wit and Buffoonery, men are not content to diſobey it, but they would ex<g ref="char:EOLhyphen"/>poſe and baniſh it out of the World; it will not ſuffice them to be <hi>Brutes</hi> them<g ref="char:EOLhyphen"/>ſelves, but they would take away the great Priviledge of Humane Nature, and make every body elſe ſo. Are not theſe then ſuch Scoffers as St. <hi>Peter</hi> foretold would come in the laſt daies? And is it not high time for God to lay to his hand, when his long-ſuffering has brought his Autho<g ref="char:EOLhyphen"/>rity, and whatever belongs to him into contempt?</p>
+            <p>The ſecond particular I propoſed was to inquire into the Juſtice of their Condem<g ref="char:EOLhyphen"/>nation to whom the Goſpel is hid, the Text tells us, <hi>They are loſt.</hi> And that they are
+<pb n="16" facs="tcp:48971:11"/>
+deſervedly ſo, needs no other proof, than to ſhew that their blindneſs is owing wholly to themſelves, 'tis willful, obſtinate and ungrateful, God having done all that could be expected on his part towards their con<g ref="char:EOLhyphen"/>viction, which will appear from theſe fol<g ref="char:EOLhyphen"/>lowing Conſiderations.</p>
+            <p>
+               <hi>Firſt,</hi> That God has given ſufficient Proof and Evidence for the Goſpel that it is his Word.</p>
+            <p>
+               <hi>Secondly,</hi> That to thoſe who are ſatis<g ref="char:EOLhyphen"/>fy'd of the Divine Authority of the Goſ<g ref="char:EOLhyphen"/>pel, there is ſufficient light and clearneſs in it, to teach them what is neceſſary both to be believ'd and practiſed.</p>
+            <p>
+               <hi>Thirdly,</hi> As to thoſe who own the Au<g ref="char:EOLhyphen"/>thority of the Goſpel, and are inſtructed in its Revelations, there is ſo much of the goodneſs of God diſcover'd in it, ſuch gra<g ref="char:EOLhyphen"/>cious offers made to them, that if its Power be hid from them, God muſt be juſtify'd in his ſaying, and all the World muſt own that their damnation is juſt.</p>
+            <p>
+               <pb n="17" facs="tcp:48971:11"/>
+               <hi>Firſt,</hi> God has given ſufficient Evidence for the Goſpel that it is his Word, no rea<g ref="char:EOLhyphen"/>ſonable Man can diſpute this, and of theſe who pretend to do it, it may be demand<g ref="char:EOLhyphen"/>ed, whether if they had lived in our Sa<g ref="char:EOLhyphen"/>viours time, and had ſeen the Miracles which he wrought, they would have be<g ref="char:EOLhyphen"/>liev'd his Doctrine, if they ſay they would not have believ'd it, it is in vain to diſ<g ref="char:EOLhyphen"/>courſe any farther with them, for how ſhould Reaſon convince thoſe whom Mira<g ref="char:EOLhyphen"/>cles could not? But if they would have be<g ref="char:EOLhyphen"/>liev'd upon ſuch Evidence, it may be eaſi<g ref="char:EOLhyphen"/>ly made out, that there is more Reaſon to believe now than there could be then, for at that time there might have been ſome doubt whether thoſe Miracles were real or not, for it is not a very eaſy thing to di<g ref="char:EOLhyphen"/>ſtinguiſh between true Miracles and falſe ones, as we ſee at this day how groſly ma<g ref="char:EOLhyphen"/>ny in the Church of <hi>Rome</hi> are impoſed upon in this matter; and a Wiſe Man would not paſs his judgment about Mira<g ref="char:EOLhyphen"/>cles till he be ſatisfy'd, both as to the repu<g ref="char:EOLhyphen"/>tation
+<pb n="18" facs="tcp:48971:12"/>
+of him that works them, and the end for which they are wrought; but thoſe who were Eye-witneſſes of our Saviour's Miracles could not have that full ſatisfaction in either of thoſe particulars which we have now, his Authority having been very much Eſtabliſh'd by the Predictions that were fulfill'd at and ſince his Death, and his own Reſurrection being that great Miracle which confirm'd the reſt, and whereby he was declared to be the Son of God with Power. 'Tis plain that before this, not<g ref="char:EOLhyphen"/>withſtanding the many and mighty works which our Saviour wrought, the Reputa<g ref="char:EOLhyphen"/>tion of his party was very low, there were ſcarce any of Note or Credit that came into it. And will any Modern Sceptick pretend that thoſe Miracles would have made him more forward than the <hi>Jews</hi> at that time were. But after our Lord's Re<g ref="char:EOLhyphen"/>ſurrection the Evidence for his Religion was ſo ſtrong, that the greateſt and wiſeſt men ſoon embraced it, and as an Argu<g ref="char:EOLhyphen"/>ment that they did ſo upon the fulleſt con<g ref="char:EOLhyphen"/>viction,
+<pb n="19" facs="tcp:48971:12"/>
+they parted with their Eſtates, and rejoyced to lay down their lives for it; and it certainly was a peculiar Providence of Almighty God, that the Church ſhould ſuffer ſuch grievous Perſecutions for ſo long a time after it was firſt planted, that men might be brought to ſearch narrowly into that Religion, for which ſo many were content to ſuffer, and that the ſucceeding diſtant Ages from that time might have no pretence to imagine that the Goſpel was at firſt nothing but <hi>a cunningly devized Fable,</hi> every one of the Primitive Martyrs being a true Witneſs to the contrary; and the Hiſtory of thoſe times has been con<g ref="char:EOLhyphen"/>vey'd down to us, not only by the Tra<g ref="char:EOLhyphen"/>dition of the Church, but by the particu<g ref="char:EOLhyphen"/>lar Hiſtories of ſeveral Countries, which are lookt upon in other matters to be of undoubted Credit and Authority. If it be ſaid, all this amounts to no more than Humane Teſtimony, and that is at moſt but probable and conſequently fallible, we ackowledge it, but is not our Rea<g ref="char:EOLhyphen"/>ſon,
+<pb n="20" facs="tcp:48971:13"/>
+are not our Senſes fallible likewiſe? This Objection therefore lies not ſo much againſt the Authority of the Scriptures, as againſt certainty in general, and we may conclude that the Goſpel is hid to ſuch men as argue thus, for no other Reaſon, but that they are unwilling to obey it. Our Saviour tells us in the <hi>7th</hi> Chapter of St. <hi>John</hi>'s Coſpel v. 17. that <hi>If any man will do his will, he ſhall know of the Doctrine whether it be from God:</hi> and Experience ſhews us that Unbelief and Immorality are ſeldom ſeparated.</p>
+            <p>
+               <hi>Secondly,</hi> To thoſe who are ſatisfy'd in the Authority of the Goſpel, there is ſuf<g ref="char:EOLhyphen"/>ficient light and clearneſs in it, to inſtruct them in what is to be believ'd and practis'd, that is, the Goſpel is deliver'd with ſo much plainneſs, that whoever will uſe but ordi<g ref="char:EOLhyphen"/>nary diligence in applying his mind to it, will lay aſide all prejudices, and will conſult with thoſe whoſe buſineſs it is to Study and Interpret it, if he has but com<g ref="char:EOLhyphen"/>mon capacities and apprehenſion, it is im<g ref="char:EOLhyphen"/>poſſible
+<pb n="21" facs="tcp:48971:13"/>
+but that he will find out the true meaning and deſign of it in all things ne<g ref="char:EOLhyphen"/>ceſſary to be underſtood by him; this is what was foretold of the Goſpel by the Prophets, and it was the mark which our Saviour ſent of it to <hi>John</hi> the Baptiſt, that it was Preach'd to the Poor, to thoſe whoſe circumſtances of life (had it been dark and intricate) could never have afforded them means and opportunities of underſtanding it. But if men will be perverſe, there are no words ſo plain, of ſo fix'd and limited a ſenſe, but they may turn them to quite another meaning than they were deſign'd for, but as ſuch a practice as this is no ex<g ref="char:EOLhyphen"/>cuſe for the violation of Human Laws and Covenants, ſo neither can it be ſo, for be<g ref="char:EOLhyphen"/>lieving or acting contrary to Divine Re<g ref="char:EOLhyphen"/>velations, but the ſin is the more volun<g ref="char:EOLhyphen"/>tary, and conſequently the more ſinful, by as much as it proceeds from, and car<g ref="char:EOLhyphen"/>ries with it an appearance of artifice and deſign, and ſince they who wreſt the ob<g ref="char:EOLhyphen"/>ſcurer paſſages of Scripture from the tenour,
+<pb n="22" facs="tcp:48971:14"/>
+and purport of the whole, do it as St. <hi>Peter</hi> tells us, to their own deſtruction, much more dangerous is their caſe, who to form the Scripture to their own notions, put a ſtrain'd and forced Interpretation upon thoſe places in it, which of themſelves are very clear and eaſy.</p>
+            <p>
+               <hi>Thirdly,</hi> The conſideration of Gods goodneſs reveal'd in the Goſpel, is a far<g ref="char:EOLhyphen"/>ther proof of the Juſtice of their Condem<g ref="char:EOLhyphen"/>nation, to whom it is hid as to the Power of it, for were there no Arguments to prove its Divine Authority, yet the Rules and Precepts contain'd in it, are ſo agreeable to our Rational Nature, and ſo fitted for our Welfare in this Life, that there is no one that is either ſober or prudent, but would wiſh at leaſt that it were from God, that all Mankind might be under the ſtrongeſt tyes and obligations to obſerve it. But if beſides the advantages which it brings us in this Life, we conſider the Diſcoveries which it makes with regard to the next, its gracious Overtures of Peace and Recon<g ref="char:EOLhyphen"/>ciliation
+<pb n="23" facs="tcp:48971:14"/>
+with God, the allowances it makes for our Infirmities, the Grace and Strength it Promiſes to aſſiſt us with, and the glo<g ref="char:EOLhyphen"/>rious Rewards which ſhall Crown our obe<g ref="char:EOLhyphen"/>dience; could we poſſibly have made bet<g ref="char:EOLhyphen"/>ter Terms for our own Happineſs, than God is pleaſed there to offer to us, how then can any one hope to eſcape, if he ne<g ref="char:EOLhyphen"/>glects ſo great Salvation?</p>
+            <p>But there are many men who will rea<g ref="char:EOLhyphen"/>dily acknowledge, that they are juſtly loſt to whom the Power of the Goſpel is hid, ſo as that the wickedneſs of their lives is a diſgrace and contradiction to their Profeſ<g ref="char:EOLhyphen"/>ſion, but they are not of the ſame opinion as to thoſe who have corrupted the ſub<g ref="char:EOLhyphen"/>ſtance of the Chriſtian Faith, the moſt eſ<g ref="char:EOLhyphen"/>ſential parts of its Doctrine, and who en<g ref="char:EOLhyphen"/>deavour as much as lies in them to hide it from others. Thus they leave men at large to believe as they think fit, or as they pretend they are able, and this is lookt upon as a piece of Chriſtian moderation, an inſtance of great Charity, and an Evangelick Spirit, but 'tis cer<g ref="char:EOLhyphen"/>tain
+<pb n="24" facs="tcp:48971:15"/>
+that the Apoſtles neither practiſed nor recommended it, they knew what influence a right Faith has upon a right converſation, that the Fruit could never be good where the Tree was not ſo, therefore they ſpared not the Falſe Teachers, they never flatter'd or complimented thoſe who corrupted their Goſpel, but rebuked them with ſharpneſs, without admiring their knowledge or mak<g ref="char:EOLhyphen"/>ing any allowances for their pretended morality, whoever he were though an A<g ref="char:EOLhyphen"/>poſtle or an Angel from Heaven that ſhould Preach any other Goſpel than that St. <hi>Paul</hi> Preached, he has no reſpect for his Chara<g ref="char:EOLhyphen"/>cter, but ſays he, <hi>Let him be accurſed,</hi> Ep. to the <hi>Gal.</hi> chap. 1. v. 8. which he repeats again in the next verſe to make the deeper impreſſion, <hi>I ſay let him be accurſed,</hi> and v. 7. he tells us, that by another Goſpel he did not mean any new Revelation that ſhould be ſet up in oppoſition to that which they had from God, but that which de<g ref="char:EOLhyphen"/>ſerved the Curſe, was the miſconſtruing his Goſpel, the perverting the Goſpel of CHRIST.</p>
+            <p>
+               <pb n="25" facs="tcp:48971:15"/>
+But ſay ſome is not this very ſevere, is it not contrary to the Temper and Spirit of the Goſpel, to pronounce men accurſed for that which it is not in their Power to help? Muſt they periſh everlaſtingly, and not be able to prevent it? To be honeſt in ones dealings, to be ſober, to be mer<g ref="char:EOLhyphen"/>ciful, in a word, to be good (ſay they) is in every ones Power, and they who are otherwiſe do juſtly bear the blame and the puniſhment of their folly: But the Faith which we ſo earneſtly contend for, is out of their reach, if there be any blame in their want of it, it muſt lye at his door who made them, for their parts they have ſpared no pains to ſearch out the true ſenſe and meaning of the Scriptures, they have weary'd their Reaſon and their Judgment in that labour, would we have them renounce them? If therefore the Goſpel be hidden to them in Miſteries, 'tis none of their faults, 'tis at moſt but their unhappineſs, and God will excuſe them. But granting that no one is loſt but by his own fault, let
+<pb n="26" facs="tcp:48971:16"/>
+ſuch men be examin'd more narrowly, and there will certainly appear other cauſes of their unbelief, than what they are willing to alledge for it, for ſometimes God ſends a Spirit of deluſion upon men, as a pu<g ref="char:EOLhyphen"/>niſhment of their luſt or former diſobe<g ref="char:EOLhyphen"/>dience, as it is ſeen by experience, that many a one who has been bred up in the true Faith, after a long courſe of wicked<g ref="char:EOLhyphen"/>neſs has turn'd Atheiſt or Infidel. But al<g ref="char:EOLhyphen"/>lowing that theſe men are as free as others are from any open enormous Crimes, yet Pride and Self-conceit will as effectually blind the underſtanding, as the God of this World could do, and is it not a moſt no<g ref="char:EOLhyphen"/>torious ſign of Pride, that where God re<g ref="char:EOLhyphen"/>quires Faith, they ſet up for knowledge, and muſt have other reaſons to ground their belief upon than thoſe of his Will? Should God require of us to comprehend the Myſteries that are above our Reaſon, to damn men for not doing it, would be inconſiſtent both with his goodneſs and his juſtice, for that would be all one as to
+<pb n="27" facs="tcp:48971:16"/>
+damn them by fatal neceſſity, but when he commands us only to believe thoſe things, where is the difficulty of believing that what God ſaies is true? Or indeed is it poſſible for any one that ſeriouſly con<g ref="char:EOLhyphen"/>ſiders it to deny his aſſent to that Propoſi<g ref="char:EOLhyphen"/>tion? If it be not, then neither can he de<g ref="char:EOLhyphen"/>ny his aſſent to ſuch other Truths as have a neceſſary connexion with it. We know that there are Miſteries in Nature and in Philoſophy, which we cannot comprehend, and the Controverſies about them can ne<g ref="char:EOLhyphen"/>ver be decided by us; for inſtance, whe<g ref="char:EOLhyphen"/>ther ſpace be finite or infinite who can de<g ref="char:EOLhyphen"/>termine? but ſuppoſe God ſhould declare that it is infinite, would it not be true? and muſt not we believe it to be ſo? yet our Reaſon could never comprehend this, nor be able to Anſwer ſuch difficulties as might be brought againſt it.</p>
+            <p>Wherefore as for thoſe deep things of God, thoſe myſterious Truths which are moſt clearly reveal'd in Scripture, though the nature of them be ſuch, that they muſt
+<pb n="28" facs="tcp:48971:17"/>
+needs ſurpaſs our underſtanding, yet there is that connexion between them and ma<g ref="char:EOLhyphen"/>ny of our Chriſtian Duties, that it is as neceſſary to believe the one, as it is to per<g ref="char:EOLhyphen"/>form the other, if any doubt or ſcruples ariſe concerning them, we ought to fol<g ref="char:EOLhyphen"/>low the example of the Apoſtles <hi>(Luke</hi> chap. 17. v. 5.) and pray to our Lord that he would increaſe our Faith. Thoſe men take quite a wrong method, who puzzle themſelves to <hi>Know,</hi> what is only to be <hi>Believ'd,</hi> and Faith being the gift of God, Prayer is the proper means of ob<g ref="char:EOLhyphen"/>taining it. A late Philoſopher tells us, that <note place="margin">
+                  <hi>Male-branche</hi> Traité de Morale, cap. 5. §. 4.</note> Study and Attention are a natural Prayer to God for Knowledge, if ſo, 'tis only for natural Knowledge, but Faith is a ſuper<g ref="char:EOLhyphen"/>natural gift, and for ſuch, Study and At<g ref="char:EOLhyphen"/>tention cannot be ſufficient, but Prayer muſt be offered up for them, in the name and through the merits, and according to the Preſcription of him who purchaſed thoſe gifts for us.</p>
+            <p>
+               <pb n="29" facs="tcp:48971:17"/>
+Let us therefore offer up ſuch Prayers to Almighty God, and be ready to receive his Holy Word with the modeſty and ſub<g ref="char:EOLhyphen"/>miſſion of little Children, let us endea<g ref="char:EOLhyphen"/>vour to keep our underſtanding as free and unprejudic'd, and our wills as innocent as theirs, and ſo we may be fully aſſur'd, that our gracious God will neither hide his Goſpel from us in this World, nor his Ever-bleſſed preſence in the World to come.</p>
+            <p>Here followed the Commemoration of <hi>BENEFACTORS.</hi>
+            </p>
+            <closer>To God the Father, Son and Holy Ghoſt, be all Honour and Glory, now and for evermore, <hi>Amen.</hi>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
